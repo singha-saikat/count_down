@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: tomato;
+}
+#count-variable{
+    color: orange;
+}
+.btn{
+   display: flex;
+   justify-content: center;
+   gap: 40px;
+   margin-top: 50px;
+}
+.btn-primary{
+    border: 15px solid skyblue;
+    
+}
